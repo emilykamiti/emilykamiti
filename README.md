@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Kamiti Emily.
+- 👋 Hi, I’m Emily Kamiti.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @emilykamiti@gmail.com
+- How to reach me: emilykamiti@gmail.com
+
 
 <!---
 emilykamiti/emilykamiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
