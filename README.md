@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nasinza<br>I love Java, it feels like tea<br>I am currently building a project management too for small teams<br>I am love coding
+My name is Nasinza<br>I love Java, it feels like coffee in the morning<br>I am currently building a project management too for small teams<br>I am love coding
 
 
 ## 🌐 Socials:
